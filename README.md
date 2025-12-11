@@ -56,7 +56,7 @@
 
 ## 🚀 About Me
 
-I’m a UK-based engineer with 12+ years of experience designing **enterprise cloud platforms, distributed systems, event-driven microservices, and advanced data engineering pipelines**.
+I’m a UK-based engineer with over eight years of experience designing **enterprise cloud platforms, distributed systems, event-driven microservices, and advanced data engineering pipelines**.
 
 My strengths include:
 - Architecting scalable systems in **Azure**
