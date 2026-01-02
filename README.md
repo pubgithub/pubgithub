@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Pubudu</strong></h1>
-<h3 align="center">Senior Software Engineer • Data Engineer • Azure Architect</h3>
+<h3 align="center"> • Software Engineer/h3>
 
 ---
 
