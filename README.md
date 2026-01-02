@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Pubudu Karunarathne</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Pubudu</strong></h1>
 <h3 align="center">Senior Software Engineer • Data Engineer • Azure Architect</h3>
 
 <p align="center">
