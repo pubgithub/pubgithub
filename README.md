@@ -49,11 +49,11 @@
 
 ## 🚀 About Me
 
-I’m a UK-based engineer with over eight years of experience designing **enterprise cloud platforms, distributed systems, event-driven microservices, and advanced data engineering pipelines**.
+I’m a dynamic UK-based software engineer and tech-savvy professional with a track record of developing high-performance software solutions that exceed client expectations and drive business success. 
 
 My strengths include:
-- Architecting scalable systems in **Azure**
-- Building **microservices** with .NET, Kafka, and Event Hub  
+- Developing scalable systems in **Azure**
+- Building application with .NET, C# and SQL Server
 - Delivering **ADF + Databricks** ELT pipelines  
 - Developing **Power BI** dashboards & SSAS semantic models  
 - Automating workflows with **Logic Apps & Functions**  
@@ -66,16 +66,16 @@ I bring together software engineering, cloud architecture, and data engineering 
 ## 📌 Current Projects
 
 - ⚙️ **Custom Email Automation Platform**  
-  Scheduling engine, tagging logic, analytics, webhook processing.
+  Scheduling engine, tagging logic, analytics.
 
 - 📱 **Mobile Workforce Management Architecture**  
-  .NET microservices → Kafka/Event Hub → Projections → Analytics.
+  .NET microservices → Projections → Analytics.
 
 - 📊 **Power BI & SSAS Models**  
-  Semantic modelling, DAX optimisation, automated pipeline refresh.
+  Semantic modelling, DAX, automated pipeline refresh.
 
 - 🏗️ **Azure Reference Architectures**  
-  Event-driven systems, data pipelines, integration templates.
+  Event-driven systems, data pipelines, integration and data storage.
 
 ---
 
@@ -97,9 +97,7 @@ Power BI dashboards, DAX snippets, SSAS tabular models + documentation.
 
 ## 🤝 Connect With Me
 
-- 🌐 **LinkedIn:** https://www.linkedin.com/in/pubk  
 - 📧 **Email:** pubuduec@gmail.com
-
 ---
 
 ⭐ _Thanks for visiting! I'm always open to collaborating on cloud, data, and distributed system builds._
