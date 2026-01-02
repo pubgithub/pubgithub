@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hi, I'm <strong>Pubudu</strong></h1>
 <h3 align="center">Senior Software Engineer • Data Engineer • Azure Architect</h3>
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/pubk">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pubgithub&style=flat-square" />
-</p>
-
 ---
 
 ## 🔧 Tech Stack & Tools
